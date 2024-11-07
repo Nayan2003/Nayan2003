@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nayan2003/Nayan2003/snake.svg" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
 
