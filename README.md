@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&psig=AOvVaw3d0mufTevwBXNPPnogiNBQ&ust=1731090846748000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjM0I_uyokDFQAAAAAdAAAAABAJ"  />
+<img align="right" height="150" src="AdobeStock_684185969_Preview.jpeg"  />
 
 ###
 
