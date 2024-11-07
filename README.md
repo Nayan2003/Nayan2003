@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img hight="200" width="700" src="AdobeStock_684185969_Preview.jpeg"  />
+  <img src="AdobeStock_684185969_Preview.jpeg" width="100%" height="400" style="max-width:700px;" alt="Banner Image" />
 </div>
 
 ###
