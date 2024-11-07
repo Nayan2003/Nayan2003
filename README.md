@@ -83,12 +83,14 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Nayan2003/Nayan2003/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="https://www.youtube.com/channel/UCVUfg1GYmJeGInBYIMAb5Aw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
