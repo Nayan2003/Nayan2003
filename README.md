@@ -15,7 +15,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="AdobeStock_684185969_Preview.jpeg"  />
+  <img  src="AdobeStock_684185969_Preview.jpeg"  />
 </div>
 
 ###
