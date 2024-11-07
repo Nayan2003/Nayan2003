@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="AdobeStock_684185969_Preview.jpeg"  />
+<img align="center" height="150" src="AdobeStock_684185969_Preview.jpeg"  />
 
 ###
 
@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nayan2003/Nayan2003/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nayan2003/Nayan2003/snake.svg" alt="Snake animation" />
 
 ###
 
