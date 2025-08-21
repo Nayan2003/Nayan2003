@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nayan khuje...</h2>
+<h2 align="left">Hi 👋 this is Nayan...</h2>
 
 ###
 
@@ -143,3 +143,4 @@
 
 
 ###
+
