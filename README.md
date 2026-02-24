@@ -1,17 +1,7 @@
 <h2 align="left">Hi 👋 this is Nayan...</h2>
 <p>
 MSc Computer Science Student | AI/ML | NLP | MERN Stack
-
-Projects:
-- Face Detection Web App
-- NLP Chatbot (Mental Health)
-- Voice Assistant (Speech Recognition)
-- Data Analysis Dashboard
-
-Skills:
-Python | Machine Learning | NLP | React | Node.js | MongoDB | Data Analysis
-
-Goal: GSoC 2026 Contributor 🚀 </p>
+</p>
 ###
 
 <br clear="both">
@@ -155,5 +145,6 @@ Goal: GSoC 2026 Contributor 🚀 </p>
 
 
 ###
+
 
 
