@@ -8,7 +8,7 @@ MSc Computer Science Student | AI/ML | NLP | MERN Stack
      Change description text to match your tagline.
      See https://github.com/kyechan99/capsule-render for full options. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:22C55E&height=220&section=header&text=Nayan_Khuje&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=52" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:22C55E&height=220&section=header&text=Nayan+Khuje&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI+ML%20Developer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=52" alt="Header" width="100%" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@ MSc Computer Science Student | AI/ML | NLP | MERN Stack
      See https://github.com/DenverCoder1/readme-typing-svg for options. -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Nayan_khuje.;I+build+full-stack+applications+with+clean+code.;I+contribute+to+open+source+when+I+can.;Always+learning+something+new.;Let's+build+something+great+together." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Nayan+khuje.;I+build+full-stack+applications+with+clean+code.;I+contribute+to+open+source+when+I+can.;Always+learning+something+new.;Let's+build+something+great+together." alt="Typing SVG" />
   </a>
 </div>
 
