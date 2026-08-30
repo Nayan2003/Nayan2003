@@ -133,25 +133,6 @@ MSc Computer Science Student | AI/ML | NLP | MERN Stack
 ###
 
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nayan2003/count.svg?"  />
-</div>
-
-###
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:22C55E&height=120&section=footer" alt="Footer" width="100%" />
